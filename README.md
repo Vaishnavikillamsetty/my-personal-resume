@@ -49,7 +49,7 @@ That’s it. If a project needs more steps, it should justify them—this one do
 If hosted on GitHub Pages, add this:
 
 ```
-https://my-resume-portfolio-vaishnavi-20.lovable.app/
+https://my-personal-resume-six.vercel.app/
 ```
 
 ---
