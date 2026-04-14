@@ -88,3 +88,9 @@ html {
   background: hsl(160 84% 39% / 0.3);
   color: hsl(210 20% 92%);
 }
+
+@layer base {
+  #lovable-badge {                
+    display: none !important;                
+  }                
+}
